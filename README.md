@@ -1,14 +1,15 @@
 # Connect the Words
 
-Disclaimer
-----------
+#### Disclaimer
+- - -
+
 This applet was made while learning the basics of
 Java. It is not to be treated as a finished product.
 Any damage that might be caused by this applet is
 unintentional and the author is not responsible for it.
 
-Description
-----------
+### >> Description <<
+- - -
 Connect the Words is a simple game for testing ones
 knowledge of languages.
 
@@ -16,8 +17,8 @@ The goal of The Game (which, btw, You just lost) is
 to clear each level by dragging words to their correct
 translation.
 
-How it works
-------------
+### >> How it works <<
+- - -
 Words are loaded from two text files HRV.txt and
 ENG.txt. Those files contain the same words in
 Croatian and English in the same order.
@@ -41,15 +42,15 @@ The stat.txt file contains the players scores and
 is read each time the game starts. If there is no
 stat.txt file, the game creates it.
 
-Future plans (maybe)
---------------------
+### >> Future plans (_maybe_) <<
+- - -
 1. Replace text files with a database
 2. Find a way to add more words without making the game to big
 3. Add more languages
 4. Create a proper UI
 
-Permission
-----------
+####{ Permission }
+- - -
 You have my permission to use this applet for non
 commercial purposes. All I ask is that You don't
 claim the applet as your own.
