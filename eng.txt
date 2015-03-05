@@ -1,0 +1,10 @@
+plane
+boat
+house
+submarine
+bird
+human
+light
+dark
+nose
+mouth
