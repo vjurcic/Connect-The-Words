@@ -12,10 +12,9 @@ Description
 Connect the Words is a simple game for testing ones
 knowledge of languages.
 
-Goal of the game
-----------------
-The goal of the game is to clear each level by 
-dragging words to their correct translation.
+The goal of The Game (which, btw, You just lost) is
+to clear each level by dragging words to their correct
+translation.
 
 How it works
 ------------
